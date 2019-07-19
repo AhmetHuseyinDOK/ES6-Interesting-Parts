@@ -1,5 +1,5 @@
 # ES6 Mixin
-We can mimix multiple inheritence with this feature.
+We can mimic multiple inheritence with this feature.
 First let's write two classes
 ```
 /abilities.js
