@@ -1,6 +1,9 @@
 # ES6 Mixin
 We can mimic multiple inheritence with this feature.
 First let's write two classes
+
+[See Test File](https://github.com/AhmetHuseyinDOK/es6-interesting-parts/blob/master/__tests__/mixin.js)
+
 ```
 /abilities.js
 

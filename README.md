@@ -1,2 +1,4 @@
-# ES6-Jest-Template
-This is a basic template which you can you es6 and test your code with JEST
+# ES6 Interesting Parts
+
+[Mixin](https://github.com/AhmetHuseyinDOK/es6-interesting-parts/src/mixin)
+
