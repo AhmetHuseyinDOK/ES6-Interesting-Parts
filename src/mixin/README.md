@@ -18,7 +18,7 @@ export const canSpeak = SuperClass => class extends SuperClass{
 
 ```
 
-then let's use this classes on Fish and Person Class
+then let's use these classes on Fish and Person Class
 
 ```
 /classes.js
